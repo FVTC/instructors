@@ -6,5 +6,13 @@
 			"username": "rdappel",
 			"repo": "courses"
 		}
+	},
+	"wetzel": {
+		"displayName": "Joe Wetzel",
+		"email": "wetzel@fvtc.edu",
+		"github": {
+			"username": "joemwetzel",
+			"repo": "CaptureTheFlag"
+		}
 	}
 }

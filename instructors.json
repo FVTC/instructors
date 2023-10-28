@@ -1,4 +1,11 @@
 {
+	"fvtc": {
+		"displayName": "Fox Valley Technical College - Templates",
+		"github": {
+			"username": "fvtc",
+			"repo": "courses"
+		}
+	},
 	"appel": {
 		"displayName": "Ryan Appel",
 		"email": "ryan.appel3240@fvtc.edu",

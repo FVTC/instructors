@@ -29,5 +29,13 @@
 			"username": "cchalloner",
 			"repo": "courses"
 		}
+	},
+	"spilman": {
+		"displayName": "T.J. Spilman",
+		"email": "tj.spilman5412@fvtc.edu",
+		"github": {
+			"username": "spilman6",
+			"repo": "courses"
+		}
 	}
 }
